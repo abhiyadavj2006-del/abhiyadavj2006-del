@@ -1,9 +1,15 @@
 # DSA / Coding Problems — Practice Set
 
-Starter practice problems with simple Python solutions. Add new problems here as you solve them.
+Starter practice problems with simple solutions. Add new problems here as you solve them.
 
+## Python
 | Problem | File | Topic |
 |---|---|---|
 | Two Sum | two-sum.py | Arrays, Hash Map |
 | Reverse a String | reverse-string.py | Strings |
 | Palindrome Check | palindrome-check.py | Strings |
+
+## C Language — AKTU BTech First Year
+Based on AKTU Programming for Problem Solving (BCS101 / BCS201) — basics, conditional branching, loops, functions, arrays, strings, pointers, structures, and file handling.
+
+See [`c/`](./c) for 13 C programs, from Hello World and sum to arrays, sorting/searching, pointers, structures, and file handling. Compile with: `gcc <file>.c -o <file> && ./<file>`
