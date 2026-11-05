@@ -12,4 +12,4 @@ Starter practice problems with simple solutions. Add new problems here as you so
 ## C Language — AKTU BTech First Year
 Based on AKTU Programming for Problem Solving (BCS101 / BCS201) — basics, conditional branching, loops, functions, arrays, strings, pointers, structures, and file handling.
 
-See [`c/`](./c) for 13 C programs, from Hello World and sum to arrays, sorting/searching, pointers, structures, and file handling. Compile with: `gcc <file>.c -o <file> && ./<file>`
+See [`c/`](./c) for 24 C programs: 13 first-year basics plus 11 advanced programs on recursion, dynamic memory, matrix multiplication, linked list, stack, queue, advanced structures, and file handling. Compile with: `gcc <file>.c -o <file> && ./<file>`

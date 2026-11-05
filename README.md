@@ -19,7 +19,7 @@ I'm a CSE student focused on software development, currently in the Labmentix in
 ## DSA / Coding Problems
 See the [`problems/`](./problems) folder — a starter practice set with solutions:
 - Two Sum, Reverse a String, Palindrome Check (Python)
-- 13 C programs for AKTU BTech first year — basics, loops, arrays, strings, pointers, structures, and file handling (in `problems/c/`)
+- 24 C programs for AKTU BTech first year (13 basics + 11 advanced) — basics, loops, arrays, strings, pointers, structures, and file handling (in `problems/c/`)
 
 More problems will be added as I practice.
 
