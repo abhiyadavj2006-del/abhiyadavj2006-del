@@ -1,0 +1,27 @@
+# C / C++ build outputs
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp

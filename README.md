@@ -12,7 +12,7 @@ I'm a CSE student focused on software development, currently in the Labmentix in
 - Data science learning and coding practice
 
 ## Projects
-- **Hackathonrivals** — India's national hackathon arena: problem statements, team registration, 39-language Code Lab, AI-judged Code Arena, and a realtime admin console.
+- [**Hackathonrivals**](https://github.com/abhiyadavj2006-del/up-hackathon-rivals) — India's national hackathon arena: problem statements, team registration, 39-language Code Lab, AI-judged Code Arena, and a realtime admin console.
 - **chat / Rival AI Mentor** — AI mentor web app.
 - **live-tracker-location** — Location tracker web app (HTML).
 - **up-hackathon-rivals** — Hackathon Rivals related web project (HTML).
