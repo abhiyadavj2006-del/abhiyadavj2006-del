@@ -1,3 +1,5 @@
+![Abhi Yadav Banner](banner.png)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Abhi+Yadav+%F0%9F%91%8B;Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Building+HackathonRivals+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -31,6 +33,13 @@
 
 - **HackathonRivals** — India's National Hackathon Arena ([hackathonrivals.in](https://hackathonrivals.in)) — a live platform with 58 problem statements across 9 themes, team registrations, quizzes, leaderboards and certificates. Built with HTML, CSS, JavaScript, Supabase and Vercel.
 
+### 🏆 Featured Projects
+
+| Project | What it is |
+|---|---|
+| [HackathonRivals](https://hackathonrivals.in) | India's National Hackathon Arena — 58 problem statements, 9 themes, quizzes & leaderboards |
+| [DSA Problems](https://github.com/abhiyadavj2006-del/abhiyadavj2006-del/tree/main/problems) | Coding practice problems — JavaScript, Python & SQL |
+
 ### 🏅 Google Cloud Skill Badge
 
 - **Implement Cloud Collaboration and Productivity Workflows** — Google Cloud Skills Boost, Nov 2026 — [Verify badge](https://www.credly.com/badges/ed733ad4-34ec-4901-be1b-0174895942a4)
@@ -59,5 +68,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyadavj2006-del&layout=compact&theme=tokyonight)
 
 [![Abhi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiyadavj2006-del&theme=tokyo-night)](https://github.com/abhiyadavj2006-del)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhiyadavj2006-del&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Dev Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
 
 </div>
